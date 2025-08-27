@@ -57,10 +57,4 @@ I'm a passionate Full Stack Developer with a love for discovering and mastering 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=javierbotero&theme=radical)
-
----
-
 > “Code is my canvas, technology my tool. Always exploring, always creating.”
