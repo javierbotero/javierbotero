@@ -59,7 +59,7 @@ I'm a passionate Full Stack Developer with a love for discovering and mastering 
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=javierbotero&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=javierbotero&theme=radical)
 
 ---
 
